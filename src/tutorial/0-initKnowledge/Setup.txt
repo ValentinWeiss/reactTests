@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=4UZrsTqkcW4&t=1777s&ab_channel=freeCodeCamp.org
+Time: 3:43:00
+
+### create react app
+
+go into folder
+npx create-react-app
+
+### setup in github
+run
+git remote add origin <link> (or sth like that)
+-> create branch
+-> checkin
+
+
+// deploy option via free netlify account
